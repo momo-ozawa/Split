@@ -1,0 +1,12 @@
+#  input.xcfilelist
+#  Split
+#
+#  Created by Momo Ozawa on 2020/07/11.
+#  Copyright © 2020 Momo Ozawa. All rights reserved.
+
+$(SRCROOT)/Carthage/Build/iOS/RxBlocking.framework
+$(SRCROOT)/Carthage/Build/iOS/RxCocoa.framework
+$(SRCROOT)/Carthage/Build/iOS/RxDataSources.framework
+$(SRCROOT)/Carthage/Build/iOS/RxRelay.framework
+$(SRCROOT)/Carthage/Build/iOS/RxSwift.framework
+$(SRCROOT)/Carthage/Build/iOS/RxTest.framework
